@@ -1,7 +1,7 @@
-# Переводчик с любого на любой язык!
-Приложение написано на чистом JavaScript. Суть его в том, чтобы переводить текс любого на любой язык.
- - Есть голосовая озвучка любого языка
- - Большой выбор языков для перевода
- - Присутствует кнопка быстрого копирования текста
- - Выполнена адаптивная верстка под все разрешения экрана
- - Посетить приложение можно по [(ссылке)](https://drabovich.github.io/Project-7-App-Translate/)
+# Translator from any to any language!
+The application is written in pure JavaScript. Its essence is to translate anyone's text into any language.
+- There is voice acting in any language
+- Working with API
+- Large selection of languages ​​for translation
+- There is a button to quickly copy text
+- You can visit the application via [(link)](https://drabovich.github.io/app-translate/)
